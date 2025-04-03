@@ -15,3 +15,7 @@ I don't think you can stress people out to create focus. Techniques such as chun
 We're not productive because we always think there is something going on outside. No news, no time, no outside world.
 
 This app turns the digital clock into an analog clock using a hotkey. The day, date, and precise time are still there waiting for you.
+
+## Privacy Policy
+
+This app does not store or transmit any information.
